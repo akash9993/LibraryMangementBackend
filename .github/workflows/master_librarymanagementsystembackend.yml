@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'LibraryManagementSystemBackend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44644BE7BBC24FB6B12C676F464895E4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0F1A23EC94743F9A27CECB4FBB9DE7E }}
           package: '*.jar'
